@@ -71,6 +71,10 @@
     cursor: pointer;
 }
 
+.btn-primary:hover {
+    background-color: gray;
+}
+
 .medium-d2{
     font-size: 18px;
     font-weight: 500;
